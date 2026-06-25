@@ -79,13 +79,14 @@ The trained models demonstrate exceptional predictability when tested against th
    $$\Delta T = T(I_{\text{peak}}) - T(U_{\text{peak}}) \approx 70 - 150^\circ\text{C}$$
    This happens because nucleation is strictly barrier-controlled, whereas growth is predominantly mobility-controlled.
 2. **Origin of the TTT C-Curve:** The fastest transformation rate (the "nose" of the TTT curve) occurs exactly at the temperature where the product $I \cdot U^3$ is maximized.
-3. **Reflected Refractory vs. Low-Melting Kinetics:** High- $T_m$, high-$Q$ refractory metals (e.g., W, Mo, Re) exhibit nose times spanning hours to days, whereas low- $T_m$ metals (e.g., Sn, Bi, Pb) complete phase transformations in milliseconds near their nose.
+3. **Reflected Refractory vs. Low-Melting Kinetics:** High- $T_m$, high- $Q$ refractory metals (e.g., W, Mo, Re) exhibit nose times spanning hours to days, whereas low- $T_m$ metals (e.g., Sn, Bi, Pb) complete phase transformations in milliseconds near their nose.
 4. **Universal Dimensionless Scaling:** An $R^2 > 0.95$ validates that five dimensionless descriptors are sufficient to encode universal phase transformation kinetics across diverse crystalline structures (FCC, BCC, HCP, diamond-cubic).
 
 ---
 
 ## 👥 Contributors
 
+| :--- | :---: |
 | Rajgowtham M  | 2024MS10186 |
 | Vignesh K     | 2024MS10669 |
 | Suhadhri Das  | 2024MS10704 |
