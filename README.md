@@ -86,13 +86,14 @@ The trained models demonstrate exceptional predictability when tested against th
 
 ## 👥 Contributors
 
-| :--- | :---: |
-| Rajgowtham M  | 2024MS10186 |
-| Vignesh K     | 2024MS10669 |
-| Suhadhri Das  | 2024MS10704 |
-| Praveen Kumar | 2024MS10784 |
-| Srikanth      | 2024MS10567 |
-| Hadia         | 2022MS12040 |
+| Name           | Roll Number |
+|----------------|-------------|
+| Rajgowtham M   | 2024MS10186 |
+| Vignesh K      | 2024MS10669 |
+| Suhadhri Das   | 2024MS10704 |
+| Praveen Kumar  | 2024MS10784 |
+| Srikanth       | 2024MS10567 |
+| Hadia          | 2022MS12040 |
 
 ---
 
